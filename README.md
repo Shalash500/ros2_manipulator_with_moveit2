@@ -7,7 +7,7 @@ This project showcases a custom-designed 4-DOF robotic manipulator controlled us
 ## 📽️ Demo Video
 
 <p align="center">
-  <a href="https://github.com/Shalash500/ros2_manipulator_with_moveit2/blob/main/media/demo.mp4">
+  <a href="https://github.com/Shalash500/ros2_manipulator_with_moveit2/blob/main/media/robot_arm_with_moveit2.mp4">
     <img src="https://raw.githubusercontent.com/Shalash500/ros2_manipulator_with_moveit2/main/media/screenshot.png" alt="Demo Video" width="600"/>
   </a>
 </p>
